@@ -4,6 +4,6 @@ for i in range (2,ik):
 	if(ik%i==0):
 		count = count+1
 if(count==0):
-	print('Yes')
+	print('yes')
 else:
-	print('No')
+	print('no')
