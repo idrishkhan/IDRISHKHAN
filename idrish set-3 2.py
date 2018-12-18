@@ -1,6 +1,7 @@
-lst = []
-num = int(input())
-for n in range(num):
-    numbers = input()
-    lst.append(numbers)
-print(max(lst))
+a=[]
+n=int(input())
+for i in range(1,n+1):
+    b=int(input())
+    a.append(b)
+print(a[n-1])
+
