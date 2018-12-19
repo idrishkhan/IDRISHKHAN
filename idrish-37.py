@@ -1,8 +1,8 @@
 x,y=map(int,input().split())
-print('before:')
+print()
 print(x,y)
 x=x^y
 y=x^y
 x=x^y
-print('after :')
+print()
 print(x,y)
